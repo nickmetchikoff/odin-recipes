@@ -1,0 +1,8 @@
+h1 {
+    text-align: center;
+    color: rgb(41, 136, 224);
+    border: 4px grey solid;
+    border-radius: 8px;
+    width:350px;
+    margin: auto;
+}
